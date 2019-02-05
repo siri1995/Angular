@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px; 
+}
+.mainbody{
+	width: 100%;
+	color:#ff0000;
+	padding-left:0px;
+}
+.header .top-header{
+	background: #3b3b3b;
+	padding:  0px 90px;
+}
+.header .top-header .social-icons{
+	float: right;
+}
+.social-icons .fa{
+	color: white;
+	padding: 5px;
+	font-size: 16px;
+}
+.nav> li{
+
+	padding: 0px;
+	font-size:16px;
+	color: white;
+	float: left;
+}
+.banner{
+	width: 100%;
+	display:block;
+	float: center;
+	margin: auto;
+}
+.banner img{
+	margin: auto;
+	display:table;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 110%;
+  background-color: cyan;
+  color: black;
+  text-align: center;
+}
